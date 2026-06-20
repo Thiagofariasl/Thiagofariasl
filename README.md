@@ -1,18 +1,18 @@
-<!-- ===== HEADER BANNER (animated wave) ===== -->
+<!-- ===== HEADER BANNER (animated wave - green) ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thiago%20Farias&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134e5e,100:71b280&height=200&section=header&text=Thiago%20Farias&fontSize=60&fontColor=ffffff&animation=scaleIn&fontAlignY=40" alt="header" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/Thiagofariasl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Prompt+Engineer+%40+Flly+IA;AI+Scholarship+%40+CIIA+-+NIA%2FUnDF;I+build+intelligent+AI+agents+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=43E97B&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Developer;AI+Agents+%26+Generative+AI;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Thiagofariasl">
-    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Profile%20views&color=A78BFA&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Profile%20views&color=43e97b&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -20,9 +20,10 @@
 
 ### 🚀 About me
 
-- 🤖 **Prompt Engineer** at **Flly IA**, developing AI agents and intelligent automations.
-- 🎓 **AI Scholarship** holder at the **Integrated Center for Artificial Intelligence (CIIA)** — **NIA / UnDF** project.
-- 💡 Passionate about building **multi-agent systems** and **generative AI** with LangGraph, LangChain and LLMs.
+- 🇧🇷 21-year-old AI developer from Brazil.
+- 🎓 **IT Management** student at **UnDF**, with postgraduate studies in **AI Engineering**.
+- 🤖 **Prompt Engineer**, working with AI agents and intelligent automations.
+- 🏅 **AI Scholarship** holder, doing research in Artificial Intelligence.
 
 ---
 
@@ -32,9 +33,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/LangGraph-43E97B?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-1BA784?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Groq-43E97B?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
@@ -59,17 +60,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiagofariasl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagofariasl&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiagofariasl&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=43e97b&icon_color=1ba784&text_color=c9d1d9" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagofariasl&layout=compact&hide_border=true&bg_color=0d1117&title_color=43e97b&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagofariasl&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiagofariasl&hide_border=true&background=0d1117&stroke=0d1117&ring=43e97b&fire=43e97b&currStreakLabel=43e97b&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 ---
 
-<!-- ===== FOOTER BANNER (animated wave) ===== -->
+<!-- ===== FOOTER BANNER (animated - green, different style) ===== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:71b280,100:134e5e&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer" />
 </p>
