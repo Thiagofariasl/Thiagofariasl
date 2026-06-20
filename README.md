@@ -1,18 +1,18 @@
-<!-- BANNER ANIMADO (efeito de onda) -->
+<!-- ===== HEADER BANNER (animated wave) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:4158D0&height=220&section=header&text=Thiago%20Farias&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=18&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=200&section=header&text=Thiago%20Farias&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="header" />
 </p>
 
-<!-- TEXTO QUE SE DIGITA SOZINHO -->
+<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <a href="https://github.com/Thiagofariasl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Prompt+Engineer+%40+Flly+IA;AI+Scholarship+%40+CIIA+-+NIA%2FUnDF;Building+intelligent+AI+agents+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Prompt+Engineer+%40+Flly+IA;AI+Scholarship+%40+CIIA+-+NIA%2FUnDF;I+build+intelligent+AI+agents+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Thiagofariasl">
-    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Profile%20views&color=8E75B2&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Profile%20views&color=A78BFA&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tech & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -44,19 +44,19 @@
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
-| Projeto | Descrição |
-|---------|-----------|
-| 🏦 [**bank-agent-orchestrator**](https://github.com/Thiagofariasl/bank-agent-orchestrator) | Sistema bancário **multi-agente** com LangGraph e Google Gemini, com camada de orquestração (supervisor) que roteia intenções do usuário para agentes especializados. |
-| ✈️ [**ai-travel-assistant-langchain**](https://github.com/Thiagofariasl/ai-travel-assistant-langchain) | Assistente de viagens inteligente com LangChain, LangGraph e LLMs (Groq): sistemas multi-agente e memória conversacional. |
-| 📝 [**AI-Agents-Collection**](https://github.com/Thiagofariasl/AI-Agents-Collection-Essay-Generator-Email-Assistant-LangGraph-Gemini-) | Coleção de agentes de IA — gerador de redações e assistente de e-mail com automação e capacidades de pesquisa. |
-| 💬 [**llm-review-analyzer**](https://github.com/Thiagofariasl/llm-review-analyzer) | Análise de reviews com LLM: tradução, classificação de sentimento e estruturação de dados. |
-| 🎨 [**atelie-generativo**](https://github.com/Thiagofariasl/atelie-generativo) | Pipeline multimodal de Pixel Art 16 bits: LLM → Stable Diffusion + LoRA → TTS → interface Gradio. |
+| Project | Description |
+|---------|-------------|
+| 🏦 [**bank-agent-orchestrator**](https://github.com/Thiagofariasl/bank-agent-orchestrator) | **Multi-agent** banking system built with LangGraph and Google Gemini, with an orchestration layer (supervisor) that routes user intents to specialized agents. |
+| ✈️ [**ai-travel-assistant-langchain**](https://github.com/Thiagofariasl/ai-travel-assistant-langchain) | Intelligent travel assistant powered by LangChain, LangGraph and LLMs (Groq): multi-agent systems and conversational memory. |
+| 📝 [**AI-Agents-Collection**](https://github.com/Thiagofariasl/AI-Agents-Collection-Essay-Generator-Email-Assistant-LangGraph-Gemini-) | A collection of AI agents — essay generator and email assistant with automation and research capabilities. |
+| 💬 [**llm-review-analyzer**](https://github.com/Thiagofariasl/llm-review-analyzer) | LLM-based app review analysis: translation, sentiment classification and structured data extraction. |
+| 🎨 [**atelie-generativo**](https://github.com/Thiagofariasl/atelie-generativo) | Multimodal 16-bit Pixel Art pipeline: LLM → Stable Diffusion + LoRA → TTS → Gradio interface. |
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thiagofariasl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -69,7 +69,7 @@
 
 ---
 
-<!-- RODAPÉ ANIMADO (onda invertida) -->
+<!-- ===== FOOTER BANNER (animated wave) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:8E75B2&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
 </p>
