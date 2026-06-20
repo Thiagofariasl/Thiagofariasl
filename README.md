@@ -1,26 +1,28 @@
-<h1 align="center">Olá, eu sou o Thiago Farias 👋</h1>
-
+<!-- BANNER ANIMADO (efeito de onda) -->
 <p align="center">
-  Desenvolvedor de <b>IA</b> focado em <b>agentes inteligentes</b> e sistemas multimodais.<br>
-  🤖 Engenheiro de Prompt na <b>Flly IA</b> &nbsp;|&nbsp; 🎓 Bolsista de IA no <b>CIIA</b> — projeto <b>NIA/UnDF</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E75B2,100:4158D0&height=220&section=header&text=Thiago%20Farias&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%26%20Agent%20Builder&descSize=18&descAlignY=58" alt="header" />
+</p>
+
+<!-- TEXTO QUE SE DIGITA SOZINHO -->
+<p align="center">
+  <a href="https://github.com/Thiagofariasl">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8E75B2&center=true&vCenter=true&width=600&lines=Prompt+Engineer+%40+Flly+IA;AI+Scholarship+%40+CIIA+-+NIA%2FUnDF;Building+intelligent+AI+agents+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Thiagofariasl">
-    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Visualizações%20do%20perfil&color=blueviolet&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Thiagofariasl&label=Profile%20views&color=8E75B2&style=flat" alt="profile views" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me
 
-- 🤖 Trabalho na **Flly IA** desenvolvendo **agentes de IA** e automações inteligentes.
-- 🎓 Bolsista de IA no **Centro Integrado de Inteligência Artificial (CIIA)**, atuando no projeto **NIA / UnDF**.
-- 🔭 Construindo sistemas **multi-agente** com LangGraph, LangChain e LLMs (Gemini, Groq).
-- 🌱 Estudando IA generativa multimodal, orquestração de agentes e deploy de modelos.
-- 💬 Fale comigo sobre **agentes de IA, LangGraph/LangChain, LLMs e IA generativa**.
-- 📫 Como me encontrar: [GitHub](https://github.com/Thiagofariasl)
+- 🤖 **Prompt Engineer** at **Flly IA**, developing AI agents and intelligent automations.
+- 🎓 **AI Scholarship** holder at the **Integrated Center for Artificial Intelligence (CIIA)** — **NIA / UnDF** project.
+- 💡 Passionate about building **multi-agent systems** and **generative AI** with LangGraph, LangChain and LLMs.
 
 ---
 
@@ -67,6 +69,7 @@
 
 ---
 
+<!-- RODAPÉ ANIMADO (onda invertida) -->
 <p align="center">
-  <i>"Construindo agentes que pensam, conectam e resolvem — um commit de cada vez."</i> ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:8E75B2&height=120&section=footer" alt="footer" />
 </p>
