@@ -1,6 +1,6 @@
 <!-- ===== HEADER BANNER (animated wave - green) ===== -->
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:134e5e,100:71b280&height=220&section=header&text=Thiago%20Farias&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:134e5e,100:71b280&height=220&text=Thiago%20Farias&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ===== TYPING ANIMATION ===== -->
